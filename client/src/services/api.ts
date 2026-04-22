@@ -7,6 +7,7 @@ export const TOKEN_KEY = "mittel_auth_token";
 export const api: AxiosInstance = axios.create({
   baseURL: API_URL,
   headers: { "Content-Type": "application/json" },
+  withCredentials: true, // ✅ ADD THIS LINE
 });
 
 const withDataEnvelope = <T = unknown>(promise: Promise<{ data: any }>) =>
