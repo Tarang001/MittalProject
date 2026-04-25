@@ -19,8 +19,8 @@ const PRODUCT_IMAGE_MAP: Record<string, string> = {
 };
 
 const carouselImages = [
-  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZRvaCE6hH8bPBuKgaHizZPCJeqD4qps_9Q&s",
-  "https://static.vecteezy.com/system/resources/previews/066/785/022/non_2x/lots-of-colorful-skeins-of-yarn-crochet-hooks-and-knitting-needles-on-a-table-web-banner-photo.jpg",
+  "https://drive.google.com/file/d/1x3H40j7UUqaqFGpjttSp9RgFnXPD7Hra/view?usp=sharing",
+  "https://drive.google.com/file/d/1XLq2FEPZcgZegDH_S4QDRRRvHAmLDrft/view?usp=sharing",
   EXISTING_IMAGE_URL,
 ];
 
