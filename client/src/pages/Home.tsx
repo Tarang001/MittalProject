@@ -19,8 +19,8 @@ const PRODUCT_IMAGE_MAP: Record<string, string> = {
 };
 
 const carouselImages = [
-  "https://drive.google.com/file/d/1x3H40j7UUqaqFGpjttSp9RgFnXPD7Hra/view?usp=sharing",
-  "https://drive.google.com/file/d/1XLq2FEPZcgZegDH_S4QDRRRvHAmLDrft/view?usp=sharing",
+  "https://nimble-needles.com/wp-content/uploads/2025/09/a-lot-of-scrap-yarn.jpg",
+  "https://images.unsplash.com/photo-1533382433768-3d403240fa40?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHlhcm58ZW58MHx8MHx8fDA%3D",
   EXISTING_IMAGE_URL,
 ];
 
